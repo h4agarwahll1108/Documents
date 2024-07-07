@@ -1,0 +1,38 @@
+Concept and Coding Notes Link
+All structural design patterns
+https://notebook.zohopublic.in/public/notes/74tdo33c5b7060d544b1c986e519dd3ba4d1b
+All behavioural design patterns
+https://notebook.zohopublic.in/public/notes/bietvc07e6ecf28d7409286145c16e623f9ed
+object pool
+https://notebook.zohopublic.in/public/notes/dcr5za494c035adb441818e2bc20485b4de58
+command
+https://notebook.zohopublic.in/public/notes/u3i1s7022b343ebda42819272312415abb520
+paymentGateway
+https://notebook.zohopublic.in/public/notes/bietv6993f5a023ec4e9f89436149ac3ed2f7
+
+
+HLD: Kafka, RabbitMQ( Distributed messaging queue)
+https://notebook.zohopublic.in/public/notes/u3i1s522a981ed32d48bcbb0b940ee3d58f22
+Cryptography
+https://notebook.zohopublic.in/public/notes/bietvf603d76e50a04c989bb3522c763be0ee
+JWT
+https://notebook.zohopublic.in/public/notes/bietvcd2cffdd8c7d449c839c007fecf8d562
+OAuth2.0
+https://notebook.zohopublic.in/public/notes/bietv949cfd82a5804e0ea1d18400d3ff6fa3
+Two Phase Locking
+https://notebook.zohopublic.in/public/notes/74tdoc7e4be4e091e4005916a9721b69ee7b3
+concurency control
+https://notebook.zohopublic.in/public/notes/u3i1s8441ef17edee467bb020cc6974b3d7f9
+Database Indexing
+https://notebook.zohopublic.in/public/notes/74tdo7871dd86eb99414bb94d8737a8b73b84
+HLD: Distributed Transaction Handling (2PC, 3PC and SAGA)
+https://notebook.zohopublic.in/public/notes/u3i1sc0949c83b482441887cc4eba8031560e
+
+Java: Interface in Depth
+https://notebook.zohopublic.in/public/notes/u3i1s033d318172e442b8b8f242767b93776c
+Stream
+https://notebook.zohopublic.in/public/notes/74tdod05928d081b5484fbfd5937d4129fa64
+java collection page1
+https://notebook.zohopublic.in/public/notes/u3i1sf9bea7a6f25c4a60941d06a07ac8d76c
+java collection page 2
+https://notebook.zohopublic.in/public/notes/74tdo79dc003d7a2846b9afdfa3f5df7f5d32
